@@ -1,0 +1,28 @@
+{
+    "orderDetails" : [
+                {
+                    "deliveryBoyName": "Rakesh",
+                    "restaurantName" : "Dominos",
+                    "distance" : 4,
+                    "price" : 100,
+                    "ratingRestaurant": 4,
+                    "ratingDeliveryBoy": 5
+                },
+                {
+                    "deliveryBoyName": "Suresh",
+                    "restaurantName" : "PizzaHut",
+                    "distance" : 8,
+                    "ratingRestaurant": 2,
+                    "ratingDeliveryBoy":4
+                },
+                {
+                    "deliveryBoyName": "Kamlesh",
+                    "restaurantName" : "MojoPizza",
+                    "distance" : 2,
+                    "ratingRestaurant": 5,
+                    "ratingDeliveryBoy":"4"
+                }
+            ]
+}
+
+
