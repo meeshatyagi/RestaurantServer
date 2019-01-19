@@ -1,5 +1,5 @@
 # RestaurantServer
-Express.js and Node.js Backend Languages are used, for server mongoDB and mongoose is used. This a server that serves restaurant related queries.
+Express.js and Node.js Backend Languages are used, for storage NoSql database mongoDB with mongoose is used. This is a server that serves restaurant related queries as follows.
 
 # API's for problem statments
 1. How many order delivered by each delivery boy in a day?
